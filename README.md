@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+ANSWER: The DOM is an API which is a representation of the html elements of a webpage. It is a tree structure that is composed of elements which are nodes. These nodes also have their own properties and methods.
+
 2. What is an event?
+
+ANSWER: Events are the actions that occur in the system you are programming. This can be a huge number of things like the mouse moving, keys being pressed, clicks happening etc.
 
 3. What is an event listener?
 
+ANSWER: An event listener works by adding a function or an object that is triggered by an event. The function can be used to manipulate the DOM node the event was triggered on or relatives of the node.
+
 4. Why would we convert a NodeList into an Array?
 
+ANSWER: A Nodelist is an array-like object, and the methods built into it are much more limited than what is available on arrays. You can interate through the items in a nodeList but you cannot use most of the array methods.
+
 5. What is a component?
+
+ANSWER: A component is a re-usable piece of code that makes the process of integration much easier by having its functionality apart from the rest of the code so it is not completely unique and can be reused.
 
 ### Git Set up
 
